@@ -1,0 +1,176 @@
+---
+title: "About"
+---
+
+I am currently a research instructor in the Epithelial Biology Center at Vanderbilt University.
+
+### Research Interests
+
+-   Multiplexed Image Analysis
+-   Image Processing
+-   Single Cell Analysis
+-   Cancer Biology
+-   Data Science
+-   Data Visualization
+
+### Education
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Vanderbilt University**\
+PhD in Biomedical Engineering\
+Advisor: H. Charles Manning
+
+</div>
+
+::: text-end
+Nashville, TN\
+Granted 2013
+:::
+:::
+
+-   Dissertation: [*FLT PET in colorectal cancer*](https://ir.vanderbilt.edu/handle/1803/11047?show=full)
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Vanderbilt University**\
+M.S in Biomedical Engineering\
+
+</div>
+
+::: text-end
+Nashville, TN\
+Granted 2011
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Case Western Reserve University**\
+B.S.E. in Biomedical Engineering
+Advisor: David L. Wilson
+
+</div>
+
+::: text-end
+Cleveland, OH\
+Granted 2007
+:::
+:::
+
+### Experience
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Vanderbilt University**
+
+Epithelial Biology Center
+
+Department of Cell and Developmental Biology
+
+</div>
+
+::: text-end
+2018 - present
+:::
+:::
+
+*Research Instructor*
+
+-   Supervisor: Robert J. Coffey
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Vanderbilt University Medical Center**
+
+Epithelial Biology Center
+
+Department of Medicine, Division of Gastroenterology
+
+</div>
+
+::: text-end
+2013-2018
+:::
+:::
+
+*Postdoctoral Fellow*
+
+-   Supervisor: Robert J. Coffey
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Vanderbilt University**
+
+Vanderbilt University Institute of Imaging Science
+
+Department of Biomedical Engineering
+
+</div>
+
+::: text-end
+2008-2013
+:::
+:::
+
+*Graduate Research Assistant*
+
+-   Advisor: H. Charles Manning
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Vanderbilt University**
+
+Department of Biomedical Engineering
+
+</div>
+
+::: text-end
+Fall 2007
+:::
+:::
+
+*Teaching Assistant*
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**BioInvision Inc.**
+
+Cleveland, OH
+
+</div>
+
+::: text-end
+2007
+:::
+:::
+
+*Medical Imagine Consultant*
+
+::: {.d-flex .justify-content-between}
+<div>
+
+**Case Western Reserve University**
+
+Department of Biomedical Engineering
+
+</div>
+
+::: text-end
+2005-2007
+:::
+:::
+
+*Undergraduate Research Assistant*
+
+-   Supervisor: David L. Wilson
+
+<br><br><br><br><br><br> [Website design based on: Drew Dimmery. 2022. "Quarto for an Academic Website." May 11, 2022. <https://ddimmery.com/posts/quarto-website>]{style="font-size:.5;"}.

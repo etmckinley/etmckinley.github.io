@@ -1,0 +1,465 @@
+replication_xG_2:
+  title: "Europe, Money, and the Problem with Disparity"
+  authors:
+  
+    - me
+    - Sean Steffen
+    - Tiotal Football
+  year: 2022
+  date: 2022-06-21
+  published_url: https://www.americansocceranalysis.com/home/2022/7/20/europe-money-and-the-problem-with-disparity
+  description: "Building off the previous Replication Project article, we show that the predictability of a league is stongly correlated to how unequal the league is. Furthermore, if you break the top European leagues down into mini-leagues of teams of equal strengths, the predictablility plummets. This finding raises multiple questions about the utility of analytics across different leagues."
+  publisher: American Soccer Analysis
+
+replication_xG_1:
+  title: "The Replication Project: Is xG The Best Predictor of Future Results"
+  authors:
+    - me
+  year: 2022
+  date: 2022-06-20
+  published_url: https://www.americansocceranalysis.com/home/2022/7/19/the-replication-project-is-xg-the-best-predictor-of-future-results
+  description: "The first edition of the Replication Project, I took a seminal soccer analytics finding from years' past, that xG is the best predictor of future results, and put it to the test with modern data. While xG was indeed the best predictor, other metrics were not as far behind in recent years than it was in the past and MLS was more unpredictable than European leagues."
+  publisher: American Soccer Analysis
+
+bothalter:
+  title: "BOTHALTEROUT: Training an AI to hate the USMNT"
+  authors:
+    - me
+  year: 2022
+  date: 2022-06-06
+  published_url: https://www.americansocceranalysis.com/home/2022/6/3/bothalterout-training-an-ai-to-hate-the-usmnt
+  description: "USMNT twitter is full of Reply Guys, who reply to the tweets of journalists with very strong (usually bad) takes about how to fix the state of American soccer. It is best to mute the Reply Guys, but what if you really need to see unhinged takes? You train an AI on these tweets and generate your own, of course."
+  publisher: American Soccer Analysis
+
+curtin_theorem:
+  title: "The Curtin Theorem: determining how much squad rotation is too much in MLS"
+  authors:
+    - me
+    - Mike Imburgio
+  year: 2022
+  date: 2022-05-10
+  published_url: https://www.americansocceranalysis.com/home/2022/5/10/the-curtin-theorem-determining-how-much-squad-rotation-is-too-much-in-mls
+  description: "After Philadelphia Union coach Jim Curtin claimed that '...the data if you rotate four or more players, you will loose', we decided to put that to the test. We used a linear mixed effects model to show that this was partially true, but with most things in MLS playing at home mattered more than anything else."
+  publisher: American Soccer Analysis
+
+state_of_analytics_3:
+  title: "State of MLS Analytics Tier List - 2022 Season"
+  authors:
+    - me
+  year: 2022
+  date: 2022-04-12
+  published_url: https://www.americansocceranalysis.com/home/2022/4/12/state-of-mls-analytics-tier-list-2022-season
+  description: "The third in a series of articles overviewing the state of analytics in MLS including the staff at each club and a tier-based ranking of each team's analytics set up."
+  publisher: American Soccer Analysis
+  
+crew_xg_2:
+  title: "Checking the ‘facts’ on Caleb Porter; is the Crew actually good?"
+  authors:
+    - me
+  year: 2022
+  date: 2022-04-12
+  published_url: https://www.massivereport.com/2022/4/12/23022193/checking-the-facts-on-caleb-porter-is-columbus-crew-actually-good
+  description: "Like in 2019, the Crew were not scoring. Unlike 2019, the Crew were generating plenty of chances and not converting."
+  publisher: Massive Report
+
+fcc_preview_2022:
+  title: "2022 MLS Season Previews: FC Cincinnati, New England Revolution, New York City FC"
+  authors:
+    - me
+    - Simon Thwaits
+    - Kevin Nelson
+  year: 2022
+  date: 2022-02-18
+  published_url: https://www.americansocceranalysis.com/home/2022/2/17/2022-mls-season-previews-fc-cincinnati-new-england-revolution-new-york-city-fc
+  description: "An analytical preview of the upcoming 2022 MLS season for FC Cincinnati."
+  publisher: American Soccer Analysis
+
+
+
+crew_preview_2022:
+  title: "2022 MLS Season Previews: Columbus Crew, Inter Miami CF, Nashville SC"
+  authors:
+    - me
+    - Simon Thwaits
+    - Ben Wright
+  year: 2022
+  date: 2022-02-17
+  published_url: https://www.americansocceranalysis.com/home/2022/2/16/2022-mls-season-previews-columbus-crew-inter-miami-cf-nashville-sc
+  description: "An analytical preview of the upcoming 2022 MLS season for the Columbus Crew."
+  publisher: American Soccer Analysis
+
+
+penalties:
+  title: "Priors and Penalties: Finding the best penalty takers with Bayes"
+  authors:
+    - me
+  year: 2021
+  date: 2021-11-21
+  published_url: https://www.americansocceranalysis.com/home/2021/11/19/priors-and-penalties-finding-the-best-penalty-takers-with-bayes
+  description: "I use empirical Bayes estimation to determine the best and worst penalty takers and stoppers ahead of the 2021 MLS playoffs."
+  publisher: American Soccer Analysis
+  
+celebrate:
+  title: "We're Gonna Celebrate and Have a Good Time"
+  authors:
+    - me
+  year: 2021
+  date: 2021-08-17
+  published_url: https://www.americansocceranalysis.com/home/2021/8/12/were-gonna-celebrate-and-have-a-good-time
+  description: "Using Second Specturm tracking data, I explore the new frontier in soccer analytics: goal celebrations. I identify the most and least enthusiastic teams and players in their post-goal celebrations."
+  publisher: American Soccer Analysis
+
+crew_preview_2021:
+  title: "2021 MLS Season Previews: Columbus Crew, Portland Timbers, and Toronto FC"
+  authors:
+    - me
+    - Jeff Bull
+    - Kieran Doyle-Davis
+  year: 2021
+  date: 2021-04-06
+  published_url: https://www.americansocceranalysis.com/home/2021/4/5/2021-mls-season-previews-columbus-crew-toronto-fc-and-portland-timbers
+  description: "An analytical preview of the upcoming 2021 MLS season for the Columbus Crew."
+  publisher: American Soccer Analysis
+
+state_of_analytics_2:
+  title: "The State of MLS Analytics Ahead of the 2021 Season"
+  authors:
+    - me
+  year: 2021
+  date: 2021-03-23
+  published_url: https://www.americansocceranalysis.com/home/2020/8/3/the-state-of-mls-analytics
+  description: "The second in a series of articles overviewing the state of analytics in MLS including the staff at each club and a tier-based ranking of each team's analytics set up."
+  publisher: American Soccer Analysis
+
+state_of_analytics_1:
+  title: "The State of MLS Analytics"
+  authors:
+    - me
+  year: 2020
+  date: 2020-08-10
+  published_url: https://www.americansocceranalysis.com/home/2020/8/3/the-state-of-mls-analytics
+  description: "The first in a series of articles overviewing the state of analytics in MLS including the staff at each club and a tier-based ranking of each team's analytics set up."
+  publisher: American Soccer Analysis
+
+mls_is_back_bubble:
+  title: "Piercing the MLS Is Back Bubble"
+  authors:
+    - Jamon Moore
+    - me
+    - Ben Wright
+  year: 2020
+  date: 2020-07-06
+  published_url: https://www.americansocceranalysis.com/home/2020/7/6/piercing-the-mls-is-back-bubble
+  description: "A review of the MLS Is Back Covid-19 bubble and data-based assessment of its likelihood of success."
+  publisher: American Soccer Analysis
+
+
+art_of_the_wheel:
+  title: "Goals Added: The Art of the Wheel"
+  authors:
+    - me
+  year: 2020
+  date: 2020-05-07
+  published_url: https://www.americansocceranalysis.com/home/2020/5/5/the-art-of-the-wheel
+  description: "A data visualization design diary of how I developed the goals added wheel. This is part of the multi-article rollout of American Soccer Analysis's goals added possession value model."
+  publisher: American Soccer Analysis
+
+reward_goalscorers:
+  title: "Coaches Reward Goalscorers. But Should They?"
+  authors:
+    - me
+    - John Muller
+  year: 2020
+  date: 2020-03-30
+  published_url: https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt
+  description: "Players that score in a previous game are more likely to play more in the next game. However, the data shows there's no reason for them to do so."
+  publisher: American Soccer Analysis
+
+crew_preview_2020:
+  title: "2020 Season Preview: Columbus Crew SC"
+  authors:
+    - me
+  year: 2020
+  date: 2020-02-19
+  published_url: https://www.americansocceranalysis.com/home/2020/2/19/2020-season-preview-columbus-crew-sc
+  description: "An analytical preview of the upcoming 2020 MLS season for the Columbus Crew"
+  publisher: American Soccer Analysis
+
+crew_offseason_2019:
+  title: "Offseason Outlook: Columbus Crew"
+  authors:
+    - me
+  year: 2019
+  date: 2019-12-03
+  published_url: https://www.americansocceranalysis.com/home/2019/12/3/offseason-outlook-columbus-crew
+  description: "A review of the 2019 MLS Season for the Columbus Crew and an analysis of where changes are due for 2020."
+  publisher: American Soccer Analysis
+
+
+play_to_win:
+  title: "You Play to Win the Game"
+  authors:
+    - me
+  year: 2019
+  date: 2019-11-22
+  published_url: https://www.americansocceranalysis.com/home/2019/11/22/you-play-to-win-the-game
+  description: "Everyone knows you should play for the draw on the road. What this article presupposes is... maybe you shouldn’t."
+  publisher: American Soccer Analysis
+
+great_goal_kick_shift:
+  title: "The Great Goal Kick Shift"
+  authors:
+    - me
+  year: 2019
+  date: 2019-10-07
+  published_url: https://www.americansocceranalysis.com/home/2019/10/7/the-great-goal-kick-shift
+  description: "In recent seasons, MLS goalkeepers have shifted where they take goal kicks from the edges of the six yard box to the center. This article provides some theories why."
+  publisher: American Soccer Analysis
+
+shots_in_dark:
+  title: "Shots in the Dark: How Data Proivders Tell Us Different Versions of What Happened"
+  authors:
+    - me
+  year: 2019
+  date: 2019-10-02
+  published_url: https://www.americansocceranalysis.com/home/2019/9/30/shots-in-the-dark-how-data-providers-tell-us-different-versions-of-what-happened
+  description: "Soccer analytics relies on data providers to provide a reliable product. Crowdsourcing the manual determination of shot locations, showed wide variability in assessed locations. Comparing four leading data providers also showed significant variability among a subset of shots."
+  publisher: American Soccer Analysis
+
+trapp_game:
+  title: "Trapp Game: How Caleb Porter has changed the Crew"
+  authors:
+    - me
+  year: 2019
+  date: 2019-10-01
+  published_url: https://www.americansocceranalysis.com/home/2019/9/19/trapp-game-how-caleb-porter-has-changed-the-crew
+  description: "Using various analytical techniques, we explained how Caleb Porter changed the playing style of the Columbus Crew after his predecessor, Gregg Berhalter, left for the US national team."
+  publisher: American Soccer Analysis
+
+
+hanging_chants:
+  title: "Hanging Chants: Analyzing MLS Goals of the Week Voting"
+  authors:
+    - me
+  year: 2019
+  date: 2019-05-19
+  published_url: https://www.americansocceranalysis.com/home/2019/5/15/hanging-chants-analyzing-mls-goals-of-the-week-voting
+  description: "This article exposed the use of bots in MLS goal of the week voting using Chant polls. Shortly after, MLS changed the method of voting for goals of the week which made the use of bots less likely."
+  publisher: American Soccer Analysis
+  
+crew_xg:
+  title: "We have a problem: The Crew believe the offense should be scoring more but the data doesn’t support that"
+  authors:
+    - me
+  year: 2019
+  date: 2019-05-13
+  published_url: https://www.massivereport.com/2019/5/13/18618010/columbus-crew-sc-caleb-porter-offense-should-be-scoring-expected-goals-mls-2019
+  description: "Through the first part of the 2019 MLS season, the Columbus Crew's offense was sputtering. Coach Caleb Porter claimed that despite not scoring, the Crew were generating plenty of chances. However, xG showed that this may have not been the case."
+  publisher: Massive Report
+
+k_means:
+  title: "Using K-Means to learn what soccer passing tells us about playing styles"
+  authors:
+    - Cheuk Hei Ho
+    - me
+  year: 2019
+  date: 2019-03-11
+  published_url: https://www.americansocceranalysis.com/home/2019/3/11/using-k-means-to-learn-what-soccer-passing-tells-us-about-playing-styles
+  description: "We utilized K-means to group pass types into 64 different types. By comparing frequencies of passes for each cluster, the passing tendencies for indiviudal teams could be cdetermined. Changes in coaches could identified by measuring the differences in clusters over time. While not the first to use K-means clustering on passes, this article popularized the technique among the soccer analytics community."
+  publisher: American Soccer Analysis
+
+fcc_preview_2019:
+  title: "FC Cincinnati 2019 Season Preview"
+  authors:
+    - me
+  year: 2019
+  date: 2019-02-27
+  published_url: https://www.americansocceranalysis.com/home/2019/2/27/fc-cincinnati-2019-season-preview
+  description: "An analytical preview of the upcoming 2019 MLS season for the FC Cincinnati."
+  publisher: American Soccer Analysis
+
+crew_preview_2019:
+  title: "Columbus Crew 2019 Season Preview"
+  authors:
+    - me
+  year: 2019
+  date: 2019-02-20
+  published_url: https://www.americansocceranalysis.com/home/2019/2/20/columbus-crew-2019-season-preview
+  description: "An analytical preview of the upcoming 2019 MLS season for the Columbus Crew."
+  publisher: American Soccer Analysis
+
+machine_crew:
+  title: "Machine Learning the Crew"
+  authors:
+    - me
+  year: 2019
+  date: 2019-02-05
+  published_url: https://www.americansocceranalysis.com/home/2019/2/5/machine-learning-the-crew
+  description: "I implemented a random forest model trained on three years of Columbus Crew data to predict which positional role a player played in an individual game."
+  publisher: American Soccer Analysis
+
+two_cdms:
+  title: "A Tale of Two Central Defensive Midfielders"
+  authors:
+    - me
+    - Kevin Minkus
+  year: 2019
+  date: 2019-01-23
+  published_url: https://www.americansocceranalysis.com/home/2019/1/23/a-tale-of-two-cdms
+  description: "A write up of our 2018 US Soccer Hackathon winning project 'Modeling decision making in the final third' that was presented at the 2019 Opta Pro Soccer event. We showed that after scoring long range goals, Wil Trapp continued to be judicious in his shot taking, while Michael Bradley was more willing to take long distance shots."
+  publisher: American Soccer Analysis
+
+a_feast_for_throws:
+  title: "A Feast For Throws"
+  authors:
+    - me
+  year: 2018
+  date: 2018-12-05
+  published_url: https://www.americansocceranalysis.com/home/2018/12/4/a-feast-for-throws
+  description: "The sequel to Game of Throw-Ins, I introduce 'thrownars', a special use of pass sonar, and detemine which MLS players and teams have the best throw-in performance."
+  publisher: American Soccer Analysis
+
+game_of_throw-ins:
+  title: "Game of Throw-Ins"
+  authors:
+    - me
+  year: 2018
+  date: 2018-11-27
+  published_url: https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins
+  description: "An in depth analysis of soccer's forgotten set piece: the throw-in. I developed a model to predict throw-in completion rate and possession retention rate."
+  publisher: American Soccer Analysis
+
+tsne:
+  title: "You Down With t-SNE?"
+  authors:
+    - me
+    - Cheuk Hei Ho
+  year: 2018
+  date: 2018-11-26
+  published_url: https://www.americansocceranalysis.com/home/2018/11/26/tsne
+  description: "We utilize t-SNE, a dimentionality reduction method, to identify similar team styles. We were able to discriminate bad and good teams using only possesion characteristics or passing networks without any performance metrics."
+  publisher: American Soccer Analysis
+
+crew_2018_postseason_preview:
+  title: "Post-Season Preview: Columbus Crew SC"
+  authors:
+    - me
+  year: 2018
+  date: 2018-10-26
+  published_url: https://www.americansocceranalysis.com/home/2018/10/24/postseason-preview-columbus-crew-sc
+  description: "Analysis of the recently saved Columbus Crew's 2018 regular season and prospects for the upcoming MLS playoffs."
+  publisher: American Soccer Analysis
+
+one_small_play:
+  title: "One small play made the difference between a tie and loss for Crew SC at Orlando"
+  authors:
+    - me
+  year: 2018
+  date: 2018-10-23
+  published_url: https://www.massivereport.com/2018/10/23/18007868/one-small-play-made-the-difference-between-a-tie-and-loss-for-columbus-crew-sc-at-orlando-city-mls
+  description: "Late in a game, a Columbus Crew player let the ball run out of bounds instead of recovering it deep in his oun half. The resulting throw-in led to a lost possession and subsequently a number of dangerous attacks against the Crew which eventually resulted in a loss. This event was the impetous for me to write Game of Throw-ins a month later."
+  publisher: Massive Report
+
+dpoe:
+  title: "Reinventing the Passing Wheel: What Determines a Good Passer"
+  authors:
+    - me
+  year: 2018
+  date: 2018-10-11
+  published_url: https://www.americansocceranalysis.com/home/2018/10/11/whatdeterminesagoodpasser
+  description: "Taking ispiration from Directional Outs Above Average in baseball, I developed a visualization technique, Directional Passes Over Expected (DPOE), to identify where a player exceeds or falls short of an expecting pass model."
+  publisher: American Soccer Analysis
+
+gameflows:
+  title: "Ebb-and-Flow: Using xPG to Capture Soccer’s Momentum Swings"
+  authors:
+    - Cheuk Hei Ho
+    - me
+    - Jamon Moore
+  year: 2018
+  date: 2018-09-18
+  published_url: https://www.americansocceranalysis.com/home/2018/9/10/xpg-pt-2
+  description: "We introduce the concept of xPG GameFlows to help visualize how the flow of play changes during a game and demostrate which teams are creating attacking threats. This work led to the launch of the popular GameFlowxPG twitter account where GameFlows are generated for every American professional soccer game."
+  publisher: American Soccer Analysis
+
+xpg:
+  title: "The Next Level of xG: Expected Possession Goals"
+  authors:
+    - Cheuk Hei Ho
+    - me
+    - Jamon Moore
+  year: 2018
+  date: 2018-08-29
+  published_url: https://www.americansocceranalysis.com/home/2018/8/28/expected-possession-goals-part-1
+  description: "Building off the expected posession goals (xPG) methods of quantifying possession value, we introduce derivitive metrics to better characterize team performance and playing style."
+  publisher: American Soccer Analysis
+
+xpoints:
+  title: "The Good, the Bad, and the Unlucky: what expected points tells us about the 2018 MLS season."
+  authors:
+    - me
+  year: 2018
+  date: 2018-08-15
+  published_url: https://www.americansocceranalysis.com/home/2018/8/14/the-good-the-bad-and-the-unlucky-what-xpoints-tells-us-about-the-2018-mls-season
+  description: "By looking at expected points during the 2018 MLS season, we can see which teams are good, bad, or fortunate"
+  publisher: American Soccer Analysis
+
+wapo_set_pieces:
+  title: "Why set pieces are dominating scoring so far at the World Cup"
+  authors:
+    - me
+  year: 2018
+  date: 2018-06-20
+  published_url: https://www.washingtonpost.com/news/fancy-stats/wp/2018/06/20/why-set-pieces-are-dominating-scoring-so-far-at-the-world-cup/
+  description: "The 2018 World Cup was defined by a high number of set piece goals. This article puts this 2018 performance into context of previous World Cups."
+  publisher: Washington Post
+
+crew_direct:
+  title: "A more direct approach for Crew SC led to road success in New England"
+  authors:
+    - me
+  year: 2018
+  date: 2018-05-24
+  published_url: https://www.massivereport.com/2018/5/24/17388560/a-more-direct-approach-for-columbus-crew-sc-led-to-road-success-in-new-england-mls-2018
+  description: "In order to beat the press against New England, the Crew changed from a possession buildup to a more direct approach."
+  publisher: Massive Report
+
+pipa_fine_wine:
+  title: "Like a fine wine, the stats show Federico Higuain gets better with time"
+  authors:
+    - me
+  year: 2018
+  date: 2018-05-18
+  published_url: https://www.massivereport.com/2018/5/15/17300914/like-a-fine-wine-the-stats-show-federico-higuain-gets-better-with-time-columbus-crew-sc-mls-2018
+  description: "Frederico Higuain has been one of the best attackers in MLS since he joined the league. Unlike most players, he actually got better with age."
+  publisher: Massive Report
+
+what to expect:
+  title: "What to Expect When You’re Expecting Goals"
+  authors:
+    - me
+  year: 2018
+  date: 2018-05-08
+  published_url: https://www.americansocceranalysis.com/home/2018/5/8/what-to-expect-when-youre-expecting-goals
+  description: "Adding up expected goals in a game don't quite tell you who is going to win. The number and quality of shots matters when generating win probabilities for individual games."
+  publisher: American Soccer Analysis
+  
+crew_wingers:
+  title: "Crew SC Breakdown: A new wrinkle for the wingers"
+  authors:
+    - me
+  year: 2018
+  date: 2018-04-17
+  published_url: https://www.massivereport.com/2018/4/17/17237106/columbus-crew-sc-breakdown-a-new-wrinkle-for-the-wingers-mls-2018
+  description: "The Crew's wingers switch positions. This article uses data to show when and how."
+  publisher: Massive Report
+
+art_of_free_kick:
+  title: "The Art of a Free Kick and How to Giovinco"
+  authors:
+    - me
+  year: 2018
+  date: 2018-04-04
+  published_url: https://www.americansocceranalysis.com/home/2018/4/3/the-art-of-a-free-kick-and-how-to-giovinco
+  description: "Do you want to take free kicks like Sebastian Giovinco? Of course you do. This article describes how to do it."
+  publisher: American Soccer Analysis

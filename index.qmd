@@ -1,0 +1,52 @@
+---
+website:
+  title: "Eliot McKinley"
+  foreground: "#005b96"
+  page-layout: full
+---
+
+::: column-page-inset
+::: column-page-inset-left
+I am a research instructor at Vanderbilt University in the Epithelial Biology Center.
+
+My research focuses on single cell analysis of highly multiplexed imaging data in colorectal cancer and polyps. This involves developing novel and utilizing existing computational tools for image processing, image analysis, and data analysis.
+
+I am also interested in and very experienced with statistical analysis and visualization of scientific data.
+
+In my free time, I develop new models and visualization techniques in [soccer analytics](soccer.qmd).
+:::
+
+::: {.column-margin .column-container}
+![](etm_headshot.png)
+:::
+:::
+
+{{< pagebreak >}}
+
+::: {.column-page-inset .text-center}
+```{=html}
+
+
+<a class="btn btn-outline-primary", href="https://twitter.com/etmckinley" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" style='color:#005b96' role='img' aria-label='Twitter'></i>
+</a>
+
+<a class="btn btn-outline-primary", href="https://github.com/etmckinley" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" style='color:#005b96' role='img' aria-label='Github'></i>
+</a>
+
+<a class="btn btn-outline-primary", href="www.linkedin.com/in/etmckinley" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" style='color:#005b96' role='img' aria-label='LinkedIn'></i>
+</a>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<a class="btn btn-outline-primary", href="https://scholar.google.com/citations?user=iI6kV6EAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" style='color:#005b96' role='img' aria-label='Google Scholar'></i>
+</a>
+
+<a class="btn btn-outline-primary", href="mailto:etmckinley@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-envelope" style='color:#005b96' role='img' aria-label='email'></i>
+</a>
+```
+:::

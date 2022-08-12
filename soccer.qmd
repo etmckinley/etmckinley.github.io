@@ -1,0 +1,86 @@
+---
+title: "Soccer"
+echo: false
+jupyter: python3
+section-divs: false
+keep-md: true
+---
+
+## About
+
+I am a contributor at [American Soccer Analysis](https://www.americansocceranalysis.com/) and [Massive Report](https://www.massivereport.com/). I also run the popular [GameFlowxPG](https://twitter.com/GameFlowxPG) which automatically published goals added GameFlow plots for all MLS, NWSL, USL Championship, USL League One, and MLS Next Pro games. My work has also been published in the [Washington Post](https://www.washingtonpost.com/news/fancy-stats/wp/2018/06/20/why-set-pieces-are-dominating-scoring-so-far-at-the-world-cup/) and featured at [ESPN](https://www.espn.com/sports/insider/soccer/insider/story/_/id/34296437/how-man-city-liverpool-dominated-premier-league-happens-next), [The Athletic](https://theathletic.com/732915/2018/12/28/minnesota-united-playing-from-the-back-bobby-shuttleworth-goalkeeper-passing/), and [Major League Soccer](https://www.mlssoccer.com/news/phil-neville-era-underway-inter-miami-were-miles-ahead-last-year) and has appeared on [year](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) [end](https://www.janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) best of soccer analytics lists. I've appeared on the [MLS Assist](https://podcasts.apple.com/gb/podcast/mls-assist-advanced-soccer-metrics-explained-how-mls/id327466681?i=1000471448911) podcast and on SiriusXM's United States of Soccer show to discuss soccer analytics.
+
+I was part of the [2018 US Soccer Hackathon](https://www.ussoccer.com/stories/2018/07/inaugural-us-soccer-hackathon-brings-together-data-and-the-beautiful-game) winning team, and presented our work on Modeling Decision Making in the Final Third at [OptaProSoccer 2019](https://www.youtube.com/watch?v=QvpQzUvDN0s&feature=emb_logo).
+
+I developed and popularized "[PassSonars](https://twitter.com/etmckinley/status/1046389278153068545?s=20)" which are now [widely accepted](https://medium.com/nightingale/passsonar-visualizing-player-interactions-in-soccer-analytics-7708e1d94afc) in the soccer analytics space and have become part of [commercial products in soccer coaching and scouting](https://statsbomb.com/2019/07/a-sneak-peak-at-iq-tactics-a-brief-history-of-radials-sonars-wagon-wheels-in-soccer/). Sonars have been implemented in other sports such as [American football](https://twitter.com/StatsbyLopez/status/1184130401759121408?s=20).
+
+I have consulted for domestic and international clubs, [contact me](mailto:etmckinley@gmail.com) for more information.
+
+```{python}
+import yaml
+from IPython.display import display, Markdown, HTML
+def readable_list(_s):
+  if len(_s) ==1:
+    return "<strong>Eliot McKinley</strong>"
+  if len(_s) < 3:
+    return ' and '.join(map(str, _s))
+  *a, b = _s
+  return f"{', '.join(map(str, a))}, and {b}"
+def button(url, str, icon):
+    icon_base = icon[:2]
+    return f"""<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <a class="btn btn-outline-dark btn-sm", href="{url}" target="_blank" rel="noopener noreferrer">
+        <i class="{icon_base} {icon}" role='img' aria-label='{str}'></i>
+        {str}
+    </a>"""
+yaml_data = yaml.safe_load(open("soccer_articles.yml"))
+pub_strs = {"pubs": {}, "wps": {}}
+for _, data in yaml_data.items():
+    title_str = data["title"]
+    date=data["date"]
+    description_str = data["description"]
+    authors = data.get("authors", ["me"])
+    authors = [aut if aut != "me" else "<strong>Eliot McKinley</strong>" for aut in authors]
+    author_str = readable_list(authors)
+    year_str = data["year"]
+    buttons = []
+    preprint = data.get("preprint")
+    if preprint is not None:
+        buttons.append(button(preprint, "Preprint", "ai-biorxiv"))
+    github = data.get("github")
+    if github is not None:
+        buttons.append(button(github, "Github", "bi-github"))
+    pub_url = data.get("published_url")
+    publisher = data.get("publisher")
+    working_paper = pub_url is None
+    pub_str = f'"{title_str}" {author_str} ({date}) '
+    desc_str = f'<em>{description_str}<br></em>'
+    #if publisher is not None:
+    #    pub_str += f" <em>{publisher}</em>"
+    if working_paper:
+        if year_str not in pub_strs["wps"]:
+            pub_strs["wps"][year_str] = []
+        pub_strs["wps"][year_str].append(
+            "<li class='list-group-item'>" + pub_str + "<br><br>" + desc_str  + "<br> " .join(buttons) + "</li>"
+        )
+    else:
+        if year_str not in pub_strs["pubs"]:
+            pub_strs["pubs"][year_str] = []
+        buttons.append(button(pub_url, f" <strong>{publisher}</strong>", "fa fa-soccer-ball-o"))
+        pub_strs["pubs"][year_str].append(
+            "<li class='list-group-item'>" + pub_str + "<br><br>" + desc_str + " " .join(buttons) + "</li>"
+        )
+```
+
+## Published Articles
+
+```{python}
+#| label: "published-year"
+#| id: "published-year"
+#| output: asis
+for year in sorted(pub_strs["pubs"].keys(), reverse=True):
+    display(Markdown(f"### {year}" + "{#" + f"published-{year}" + "}"))
+    display(HTML(
+        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
+    ))
+```

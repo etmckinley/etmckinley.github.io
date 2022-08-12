@@ -1,0 +1,23 @@
+project:
+  type: website
+execute:
+  freeze: auto
+website:
+  title: "Eliot McKinley"
+  favicon: favicon.png
+  navbar:
+    background: "#005b96"
+    foreground: "#FFFFFF"
+    left: 
+      - about.qmd
+      - research.qmd
+      - soccer.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
