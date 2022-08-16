@@ -49,15 +49,15 @@ cafs:
 mxiF_norm:
   title: "Quantifying and correcting slide-to-slide variation in multiplexed immunofluorescence images"  
   authors:
-    - Coleman R Harris
+    - Coleman R. Harris
     - me
-    - Joseph T Roland
+    - Joseph T. Roland
     - Qi Liu
-    - Martha J Shrubsole
-    - Ken S Lau-
-    - Robert J Coffey
+    - Martha J. Shrubsole
+    - Ken S. Lau
+    - Robert J. Coffey
     - Julia Wrobel
-    - Simon N Vandekar
+    - Simon N. Vandekar
   year: 2022
   preprint: https://www.biorxiv.org/content/10.1101/2021.07.16.452359v1
   published_url: https://doi.org/10.1093/bioinformatics/btab877
@@ -75,16 +75,16 @@ mc_micro:
     - Yu-An Chen
     - Jeremy L Muhlich
     - Joshua Hess
-    - Allison L Creason
-    - Ajit J Nirmal
-    - Gregory J Baker
-    - Maulik K Nariya
+    - Allison L. Creason
+    - Ajit J. Nirmal
+    - Gregory J. Baker
+    - Maulik K. Nariya
     - Jia-Ren Lin
     - Zoltan Maliga
-    - Connor A Jacobson
-    - Matthew W Hodgman
+    - Connor A. Jacobson
+    - Matthew W. Hodgman
     - Juha Ruokonen
-    - Samouil L Farhi
+    - Samouil L. Farhi
     - Domenic Abbondanza
     - me
     - Daniel Persson
@@ -92,10 +92,10 @@ mc_micro:
     - Shamilene Sivagnanam
     - Aviv Regev
     - Jeremy Goecks
-    - Robert J Coffey
-    - Lisa M Coussens
+    - Robert J. Coffey
+    - Lisa M. Coussens
     - Sandro Santagata
-    - Peter K Sorger
+    - Peter K. Sorger
   year: 2022
   preprint: https://www.biorxiv.org/content/10.1101/2021.03.15.435473v1
   published_url: https://doi.org/10.1038/s41592-021-01308-y
@@ -111,7 +111,7 @@ supermeres:
     - James N. Higginbotham
     - Ramona Graves-Deal
     - Vincent Q. Trinh
-    - Marisol A. Ramirez
+    - Marisol A. Ramirez-Solano
     - Yoojin Sohn
     - Abigail C. Neininger
     - Nilay Taneja
@@ -125,8 +125,8 @@ supermeres:
     - Salisha Hill
     - Kristie Lindsey Rose
     - Won Jae Huh
-    - Mary Kay Washington
-    - Gregory Daniel Ayers
+    - M. Kay Washington
+    - Gregory D. Ayers
     - Dylan T. Burnette
     - Shivani Sharma
     - Leonard H. Rome
@@ -184,57 +184,57 @@ colon_map_polyps:
   title: "Differential pre-malignant programs and microenvironment chart distinct paths to malignancy in human colorectal polyps"
   authors:
     - Bob Chen
-    - Cherie' R Scurrah
+    - Cherie' R. Scurrah
     - me
-    - Alan J Simmons
-    - Marisol A Ramirez-Solano
+    - Alan J. Simmons
+    - Marisol A. Ramirez-Solano
     - Xiangzhu Zhu
-    - Nicholas O Markham
-    - Cody N Heiser
-    - Paige N Vega
+    - Nicholas O. Markham
+    - Cody N. Heiser
+    - Paige N. Vega
     - Andrea Rolong
     - Hyeyon Kim
     - Quanhu Sheng
-    - Julia L Drewes
+    - Julia L. Drewes
     - Yuan Zhou
-    - Austin N Southard-Smith
+    - Austin N. Southard-Smith
     - Yanwen Xu
     - James Ro
-    - Angela L Jones
+    - Angela L. Jones
     - Frank Revetta
-    - Lynne D Berry
+    - Lynne D. Berry
     - Hiroaki Niitsu
     - Mirazul Islam
     - Karin Pelka
     - Matan Hofree
-    - Jonathan H Chen
+    - Jonathan H. Chen
     - Siranush Sarkizova
     - Kimmie Ng
     - Marios Giannakis
-    - Genevieve M Boland
-    - Andrew J Aguirre
-    - Ana C Anderson
+    - Genevieve M. Boland
+    - Andrew J. Aguirre
+    - Ana C. Anderson
     - Orit Rozenblatt-Rosen
     - Aviv Regev
     - Nir Hacohen
     - Kenta Kawasaki
     - Toshiro Sato
-    - Jeremy A Goettel
-    - William M Grady
+    - Jeremy A. Goettel
+    - William M. Grady
     - Wei Zheng
-    - M Kay Washington
+    - M. Kay Washington
     - Qiuyin Cai
-    - Cynthia L Sears
-    - James R Goldenring
-    - Jeffrey L Franklin
+    - Cynthia L. Sears
+    - James R. Goldenring
+    - Jeffrey L. Franklin
     - Timothy Su
     - Won Jae Huh
     - Simon Vandekar
-    - Joseph T Roland
+    - Joseph T. Roland
     - Qi Liu
-    - Robert J Coffey
-    - Martha J Shrubsole
-    - Ken S Lau
+    - Robert J. Coffey
+    - Martha J. Shrubsole
+    - Ken S. Lau
   year: 2021
   preprint: https://www.biorxiv.org/content/10.1101/2021.01.11.426044v1
   published_url: https://doi.org/10.1016/j.cell.2021.11.031
@@ -247,23 +247,23 @@ tuft_succinate:
   title: "Succinate produced by intestinal microbes promotes specification of tuft cells to suppress ileal inflammation"
   authors: 
     - Amrita Banerjee
-    - Charles A Herring
+    - Charles A. Herring
     - Bob Chen
     - Hyeyon Kim
-    - Alan J Simmons
-    - Austin N Southard-Smith
-    - Margaret M Allaman
-    - James R White
-    - Mary C Macedonia
+    - Alan J. Simmons
+    - Austin N. Southard-Smith
+    - Margaret M. Allaman
+    - James R. White
+    - Mary C. Macedonia
     - me
-    - Marisol A Ramirez-Solano
-    - Elizabeth A Scoville
+    - Marisol A. Ramirez-Solano
+    - Elizabeth A. Scoville
     - Qi Liu
-    - Keith T Wilson
-    - Robert J Coffey
-    - M Kay Washington
-    - Jeremy A Goettel
-    - Ken S Lau
+    - Keith T. Wilson
+    - Robert J. Coffey
+    - M. Kay Washington
+    - Jeremy A. Goettel
+    - Ken S. Lau
   year: 2020
   preprint:
   published_url: https://doi.org/10.1053/j.gastro.2020.08.029
@@ -354,8 +354,8 @@ mri_mean_cell_breast:
   authors:
     - Junzhong Xu
     - Xiaoyu Jian
-    - Hua L
-    - Lori R. Arlinghau
+    - Hua Li
+    - Lori R. Arlinghaus
     - me
     - Sean P. Devan
     - Benjamin M. Hardy
@@ -375,13 +375,13 @@ mri_checkpoint_inhibitors:
   authors:
     - Xiaoyu Jiang
     - Stephanie Dudzinski
-    - Kathryn E Beckermann
+    - Kathryn E. Beckermann
     - Kirsten Young
     - me
-    - J Oliver McIntyre
-    - Jeffrey C Rathmell
+    - J. Oliver McIntyre
+    - Jeffrey C. Rathmell
     - Junzhong Xu
-    - John C Gore
+    - John C. Gore
   year: 2020
   preprint:
   published_url: https://doi.org/10.1136/jitc-2019-000328
@@ -448,7 +448,7 @@ exomeres_cargo:
   journal: Cell Rep
   abstract: "Exomeres are a recently discovered type of extracellular nanoparticle with no known biological function. Herein, we describe a simple ultracentrifugation-based method for separation of exomeres from exosomes. Exomeres are enriched in Argonaute 1-3 and amyloid precursor protein. We identify distinct functions of exomeres mediated by two of their cargo, the β-galactoside α2,6-sialyltransferase 1 (ST6Gal-I) that α2,6- sialylates N-glycans, and the EGFR ligand, amphiregulin (AREG). Functional ST6Gal-I in exomeres can be transferred to cells, resulting in hypersialylation of recipient cell-surface proteins including β1-integrin. AREG-containing exomeres elicit prolonged EGFR and downstream signaling in recipient cells, modulate EGFR trafficking in normal intestinal organoids, and dramatically enhance the growth of colonic tumor organoids. This study provides a simplified method of exomere isolation and demonstrates that exomeres contain and can transfer functional cargo. These findings underscore the heterogeneity of nanoparticles and should accelerate advances in determining the composition and biological functions of exomeres."
 
-exomeres_cargo: 
+tuft_heterogeneity: 
   title: "Interpreting heterogeneity in intestinal tuft cell structure and function"
   authors:
     - Amrita Banerjee
@@ -492,7 +492,7 @@ kras_exosomes:
     - Matthew R. Hight
     - Michael L. Schulte
     - Kimberly R. Watt
-    - G. Daniel Ayers
+    - Gregory D. Ayers
     - Melissa M. Wolf
     - Gabriela Andrejeva
     - Jeffrey C. Rathmell
@@ -554,14 +554,14 @@ mxif_tuft_cells:
 dissect: 
   title: "Impaired coordination between signaling pathways is revealed in human colorectal cancer using single-cell mass cytometry of archival tissue blocks"
   authors:
-    - Alan J Simmons
-    - Cherie' R Scurrah
+    - Alan J. Simmons
+    - Cherie' R. Scurrah
     - me
-    - Charles A Herring
-    - Jonathan M Irish
-    - M Kay Washington
-    - Robert J Coffey
-    - Ken S Lau
+    - Charles A. Herring
+    - Jonathan M. Irish
+    - M. Kay Washington
+    - Robert J. Coffey
+    - Ken S. Lau
   year: 2016
   preprint:
   published_url: https://doi.org/10.1126/scisignal.aah4413
@@ -591,19 +591,19 @@ mri_cellularity:
 single_cell_mapk: 
   title: "Cytometry-based single-cell analysis of intact epithelial signaling reveals MAPK activation divergent from TNF-α-induced apoptosis in vivo"
   authors:
-    - Alan J Simmons
+    - Alan J. Simmons
     - Amrita Banerjee
     - me
-    - Cherie' R Scurrah
-    - Charles A Herring
-    - Leslie S Gewin
+    - Cherie' R. Scurrah
+    - Charles A. Herring
+    - Leslie S. Gewin
     - Ryota Masuzaki
-    - Seth J Karp
-    - Jeffrey L Franklin
-    - Michael J Gerdes
-    - Jonathan M Irish
-    - Robert J Coffey
-    - Ken S Lau
+    - Seth J. Karp
+    - Jeffrey L. Franklin
+    - Michael J. Gerdes
+    - Jonathan M. Irish
+    - Robert J. Coffey
+    - Ken S. Lau
   year: 2015
   preprint:
   published_url: https://doi.org/10.15252/msb.20156282
@@ -656,11 +656,11 @@ flt_pilot:
 flt_bioscan: 
   title: "High-yielding, automated production of 3′-deoxy-3′-[18F]fluorothymidine using a modified Bioscan Coincidence FDG reaction module"
   authors:
-    - Yiu-YinCheung
-    - Michael L.Nickels
+    - Yiu-Yin Cheung
+    - Michael L. Nickels
     - me
-    - Jason R.Buck
-    - H. CharlesManning
+    - Jason R. Buck
+    - H. Charles Manning
   year: 2015
   preprint:
   published_url: https://doi.org/10.1016%2Fj.apradiso.2014.11.011
@@ -674,7 +674,7 @@ flt_mtor:
   authors:
     - me
     - Ping Zhao
-    - Robert J Coffey
+    - Robert J. Coffey
     - M. Kay Washington
     - H. Charles Manning
   year: 2014
@@ -688,13 +688,13 @@ flt_mtor:
 lrig1_crc_tumors: 
   title: "Inducible loss of one Apc allele in Lrig1-expressing progenitor cells results in multiple distal colonic tumors with features of familial adenomatous polyposis"
   authors:
-    - Anne E Powell
+    - Anne E. Powell
     - Gregory Vlacich
     - Zhen-Yang Zhao
     - me
-    - M Kay Washington
-    - H Charles Manning
-    - Robert J Coffey
+    - M. Kay Washington
+    - H. Charles Manning
+    - Robert J. Coffey
   year: 2014
   preprint:
   published_url: https://doi.org/10.1152/ajpgi.00358.2013
@@ -708,12 +708,12 @@ pkcd:
   authors:
     - me
     - Huiling Liu
-    - W Hayes McDonald
+    - W. Hayes McDonald
     - Weifeng Luo
     - Ping Zhao
-    - Robert J Coffey
-    - Steven K Hanks
-    - H Charles Manning
+    - Robert J. Coffey
+    - Steven K. Hanks
+    - H. Charles Manning
   year: 2013
   preprint:
   published_url: https://doi.org/10.1371/journal.pone.0080207
@@ -746,13 +746,13 @@ limits_of_flt:
   title: "Limits of [18F]-FLT PET as a biomarker of proliferation in oncology"
   authors:
     - me
-    - Gregory D Ayers
-    - R Adam Smith
-    - Samir A Saleh
+    - Gregory D. Ayers
+    - R. Adam Smith
+    - Samir A. Saleh
     - Ping Zhao
-    - Mary Kay Washington
-    - Robert J Coffey
-    - H Charles Manning
+    - M. Kay Washington
+    - Robert J. Coffey
+    - H. Charles Manning
   year: 2013
   preprint:
   published_url: https://doi.org/10.1371/journal.pone.0058938
@@ -765,14 +765,14 @@ flt_braf_treatment:
   title: "3'-Deoxy-3'-18F-fluorothymidine PET predicts response to (V600E)BRAF-targeted therapy in preclinical models of colorectal cancer"
   authors:
     - me
-    - R Adam Smith
+    - R. Adam Smith
     - Ping Zhao
     - Allie Fu
-    - Samir A Saleh
-    - Md Imam Uddin
-    - M Kay Washington
-    - Robert J Coffey
-    - H Charles Manning
+    - Samir A. Saleh
+    - Md. Imam Uddin
+    - M. Kay Washington
+    - Robert J. Coffey
+    - H. Charles Manning
   year: 2013
   preprint:
   published_url: https://doi.org/10.2967/jnumed.112.108456
@@ -785,12 +785,12 @@ flt_menetriers:
   title: "[18F]FLT-PET to predict pharmacodynamic and clinical response to cetuximab therapy in Ménétrier's disease"
   authors:
     - me
-    - R Adam Smith
-    - Jarred P Tanksley
-    - Mary Kay Washington
+    - R. Adam Smith
+    - Jarred P. Tanksley
+    - M. Kay Washington
     - Ronald Walker
-    - Robert J Coffey
-    - H Charles Manning
+    - Robert J. Coffey
+    - H. Charles Manning
   year: 2012
   preprint:
   published_url: https://doi.org/10.1007/s12149-012-0636-x
@@ -803,17 +803,17 @@ preclinical_tspo_imaging:
   title: "Quantitative preclinical imaging of TSPO expression in glioma using N,N-diethyl-2-(2-(4-(2-18F-fluoroethoxy)phenyl)-5,7-dimethylpyrazolo[1,5-a]pyrimidin-3-yl)acetamide"
   authors:
     - Dewei Tang
-    - Matthew R Hight
+    - Matthew R. Hight
     - me
     - Allie Fu
-    - Jason R Buck
-    - R Adam Smith
+    - Jason R. Buck
+    - R. Adam Smith
     - Mohammed Noor Tantawy
-    - Todd E Peterson
-    - Daniel C Colvin
-    - M Sib Ansari
-    - Michael Nickels
-    - H Charles Manning
+    - Todd E. Peterson
+    - Daniel C. Colvin
+    - M. Sib Ansari
+    - Michael L. Nickels
+    - H. Charles Manning
   year: 2012
   preprint:
   published_url: https://doi.org/10.2967/jnumed.111.095653
@@ -823,19 +823,19 @@ preclinical_tspo_imaging:
 her2_her3: 
   title: "Transcriptional and posttranslational up-regulation of HER3 (ErbB3) compensates for inhibition of the HER2 tyrosine kinase"
   authors:
-    - Joan T Garrett
+    - Joan T. Garrett
     - María Graciela Olivares
     - Cammie Rinehart
-    - Nara D Granja-Ingram
+    - Nara D. Granja-Ingram
     - Violeta Sánchez
     - Anindita Chakrabarty
     - Bhuvanesh Dave
-    - Rebecca S Cook
+    - Rebecca S. Cook
     - William Pao
     - me
-    - H C Manning
+    - H. Charles Manning
     - Jenny Chang
-    - Carlos L Arteaga
+    - Carlos L. Arteaga
   year: 2011
   preprint:
   published_url: https://doi.org/10.1073/pnas.1016140108
@@ -854,7 +854,7 @@ fdg_osi:
     - Christine Mantis
     - Prafulla C Gokhale
     - Robert Wild
-    - H Charles Manning
+    - H. Charles Manning
   year: 2011
   preprint:
   published_url: https://doi.org/10.1158/1078-0432.ccr-10-2274
@@ -866,14 +866,14 @@ fdg_osi:
 multipectral_ph: 
   title: "Multispectral fluorescence imaging to assess pH in biological specimens"
   authors:
-    - Matthew R Hight
-    - Donald D Nolting
-    - Eliot T McKinley
-    - Adam D Lander
-    - Shelby K Wyatt
+    - Matthew R. Hight
+    - Donald D. Nolting
+    - me
+    - Adam D. Lander
+    - Shelby K. Wyatt
     - Mark Gonyea
     - Ping Zhao
-    - H Charles Manning
+    - H. Charles Manning
   year: 2011
   preprint:
   published_url: https://doi.org/10.1117/1.3533264
@@ -885,20 +885,20 @@ multipectral_ph:
 preclinical_tspo_glioma: 
   title: "Quantitative, preclinical PET of translocator protein expression in glioma using 18F-N-fluoroacetyl-N-(2,5-dimethoxybenzyl)-2-phenoxyaniline"
   authors:
-    - Jason R Buck
+    - Jason R. Buck
     - me 
-    - Matthew R Hight
+    - Matthew R. Hight
     - Allie Fu
     - Dewei Tang
-    - Ralph Adam Smith
+    - R. Adam Smith
     - Mohammed Noor Tantawy
-    - Todd E Peterson
-    - Daniel Colvin
+    - Todd E. Peterson
+    - Daniel C. Colvin
     - Mohammed Sib Ansari
-    - Ronald M Baldwin
+    - Ronald M. Baldwin
     - Ping Zhao
     - Saffet Guleryuz
-    - H Charles Manning
+    - H. Charles Manning
   year: 2011
   preprint:
   published_url: https://doi.org/10.2967/jnumed.110.081703
@@ -931,20 +931,20 @@ her2_biomarkers:
   title: "Imaging biomarkers predict response to anti-HER2 (ErbB2) therapy in preclinical models of breast cancer"
   authors:
     - Chirayu Shah
-    - Todd W Miller
-    - Shelby K Wyatt
+    - Todd W. Miller
+    - Shelby K. Wyatt
     - me
     - Maria Graciela Olivares
-    - Violeta Sanchez
-    - Donald D Nolting
-    - Jason R Buck
+    - Violeta Sánchez
+    - Donald D. Nolting
+    - Jason R. Buck
     - Ping Zhao
-    - M Sib Ansari
-    - Ronald M Baldwin
-    - John C Gore
+    - M. Sib Ansari
+    - Ronald M. Baldwin
+    - John C. Gore
     - Rachel Schiff
-    - Carlos L Arteaga
-    - H Charles Manning
+    - Carlos L. Arteaga
+    - H. Charles Manning
   year: 2009
   preprint:
   published_url: https://doi.org/10.1158/1078-0432.ccr-08-2635
@@ -956,10 +956,10 @@ her2_biomarkers:
 accelerating_hts: 
   title: "Accelerating the development of novel molecular imaging probes: a role for high-throughput screening"
   authors:
-    - H Charles Manning
+    - H. Charles Manning
     - Adam Lander
     - me
-    - Nathan J Mutic
+    - Nathan J. Mutic
   year: 2008
   preprint:
   published_url: https://doi.org/10.2967/jnumed.108.053009
